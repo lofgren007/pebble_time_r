@@ -1,0 +1,113 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Private",
+    "longName": "Lorinda_face1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/HIGHERUP.TTF",
+                "name": "FONT_HIGHERUP_REG_80",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/HIGHERUP.TTF",
+                "name": "FONT_HIGHERUP_REG_72",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/HIGHERUP.TTF",
+                "name": "FONT_HIGHERUP_REG_60",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/HIGHERUP.TTF",
+                "name": "FONT_HIGHERUP_REG_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/steelfish rg.ttf",
+                "name": "FONT_STEELFISH_REG_72",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/steelfish rg.ttf",
+                "name": "FONT_STEELFISH_REG_60",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/steelfish rg.ttf",
+                "name": "FONT_STEELFISH_REG_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/DJB The Generic.ttf",
+                "name": "DBJ_REGULAR_80",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/DJB The Generic.ttf",
+                "name": "DBJ_REGULAR_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/DJB The Generic.ttf",
+                "name": "DBJ_REGULAR_60",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/DJB The Generic.ttf",
+                "name": "DBJ_REGULAR_72",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/DJB The Generic.ttf",
+                "name": "DBJ_REGULAR_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/HEADPLANE.TTF",
+                "name": "HEADPLANE_REGULAR_72",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/HEADPLANE.TTF",
+                "name": "HEADPLANE_REGULAR_60",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/HEADPLANE.TTF",
+                "name": "HEADPLANE_REGULAR_48",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Lorinda_face1",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "721170ae-fdb8-4f69-aaf5-1d717fead1d0",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
